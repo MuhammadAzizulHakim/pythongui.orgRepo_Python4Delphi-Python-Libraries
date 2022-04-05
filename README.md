@@ -11,4 +11,8 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 5. [Learn To Work With HTTP Requests Using Python Requests Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-working-with-http-requests-using-requests-library-in-a-delphi-windows-app/)
 
+6. [Artificial Intelligence Solutions With Keras Library In A Windows Python App](https://pythongui.org/artificial-intelligence-solutions-with-keras-library-in-a-windows-python-app/)
+
+7. [Build An Artificial Intelligence Solutions With TensorFlow Library In A Delphi Windows App](https://pythongui.org/build-an-artificial-intelligence-solutions-with-tensorflow-library-in-a-delphi-windows-app/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
