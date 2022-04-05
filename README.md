@@ -7,4 +7,8 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 3. [Learn To Build A Python GUI For Scientific Computing With The NumPy Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-scientific-computing-with-the-numpy-library-in-a-delphi-windows-app/) 
 
+4. [Learn To Build A Python GUI For Computer Vision Tasks With Powerful OpenCV Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-computer-vision-tasks-with-powerful-opencv-library-in-a-delphi-windows-app/)
+
+5. [Learn To Work With HTTP Requests Using Python Requests Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-working-with-http-requests-using-requests-library-in-a-delphi-windows-app/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
