@@ -15,4 +15,6 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 7. [Build An Artificial Intelligence Solutions With TensorFlow Library In A Delphi Windows App](https://pythongui.org/build-an-artificial-intelligence-solutions-with-tensorflow-library-in-a-delphi-windows-app/)
 
+8. [Learn To Build A Python GUI For Scientific Computing With The Scipy Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-scientific-computing-with-the-scipy-library-in-a-delphi-windows-app/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
