@@ -17,4 +17,8 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 8. [Learn To Build A Python GUI For Scientific Computing With The Scipy Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-scientific-computing-with-the-scipy-library-in-a-delphi-windows-app/)
 
+9. [Learn To Build A Python GUI For Web Scraping Using BeautifulSoup Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-web-scraping-using-beautifulsoup-library-in-a-delphi-windows-app/)
+
+10. [Powerful Data Analysis And Manipulation Using Pandas Library In A Delphi Windows App](https://pythongui.org/powerful-data-analysis-and-manipulation-using-pandas-library-in-a-delphi-windows-app/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
