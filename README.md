@@ -21,4 +21,10 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 10. [Powerful Data Analysis And Manipulation Using Pandas Library In A Delphi Windows App](https://pythongui.org/powerful-data-analysis-and-manipulation-using-pandas-library-in-a-delphi-windows-app/)
 
+11. [Learn To Build A Python GUI For Working With Multidimensional Arrays Using Theano Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-working-with-multidimensional-arrays-using-theano-library-in-a-delphi-windows-app/)
+
+12. [Quickly Build A Python GUI App With Powerful Natural Language Processing Capabilities Using NLTK Library In A Delphi Windows App](https://pythongui.org/quickly-build-a-python-gui-app-with-powerful-natural-language-processing-capabilities-using-nltk-library-in-a-delphi-windows-app/)
+
+13. [Learn to Automatically Generating A CLIs Using Python’s Fire Library In A Delphi Windows App](https://pythongui.org/learn-to-automatically-generating-a-clis-using-pythons-fire-library-in-a-delphi-windows-app/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
