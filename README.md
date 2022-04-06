@@ -27,4 +27,10 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 13. [Learn to Automatically Generating A CLIs Using Python’s Fire Library In A Delphi Windows App](https://pythongui.org/learn-to-automatically-generating-a-clis-using-pythons-fire-library-in-a-delphi-windows-app/)
 
+14. [Learn To Build A Python GUI For Manipulating Date, Time, And Timestamps Using Arrow Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-manipulating-date-time-and-timestamps-using-arrow-library-in-a-delphi-windows-app/)
+
+15. [Quickly Build A Python GUI Apps For Replacing And Extracting Keywords In Sentences Using FlashText Library In A Delphi Windows App](https://pythongui.org/quickly-build-a-python-gui-apps-for-replacing-and-extracting-keywords-in-sentences-using-flashtext-library-in-a-delphi-windows-app/)
+
+16. [Learn To Build A Python GUI For Efficient And High-Performing Database Access With SQLAlchemy In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-efficient-and-high-performing-database-access-with-sqlalchemy-in-a-delphi-windows-app/)
+ 
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
