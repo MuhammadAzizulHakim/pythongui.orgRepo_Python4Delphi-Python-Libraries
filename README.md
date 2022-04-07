@@ -32,5 +32,13 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 15. [Quickly Build A Python GUI Apps For Replacing And Extracting Keywords In Sentences Using FlashText Library In A Delphi Windows App](https://pythongui.org/quickly-build-a-python-gui-apps-for-replacing-and-extracting-keywords-in-sentences-using-flashtext-library-in-a-delphi-windows-app/)
 
 16. [Learn To Build A Python GUI For Efficient And High-Performing Database Access With SQLAlchemy In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-efficient-and-high-performing-database-access-with-sqlalchemy-in-a-delphi-windows-app/)
- 
+
+17. [Learn To Build A Python GUI For Programming Quantum Computers With Cirq In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-programming-quantum-computers-with-cirq-in-a-delphi-windows-app/)
+
+18. [Build An Artificial Intelligence Solutions With PyTorch Library In A Delphi Windows App](https://pythongui.org/build-an-artificial-intelligence-solutions-with-pytorch-library-in-a-delphi-windows-app/)
+
+19. [Learn To Build A Python GUI For Manipulating Datetime Using Delorean Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-manipulating-datetime-using-delorean-library-in-a-delphi-windows-app/)
+
+20. [Build A Machine Learning Solutions With Scikit-Learn Library In A Delphi Windows App](https://pythongui.org/build-a-machine-learning-solutions-with-scikit-learn-library-in-a-delphi-windows-app/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
