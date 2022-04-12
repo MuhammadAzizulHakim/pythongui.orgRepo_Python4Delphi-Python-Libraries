@@ -41,4 +41,14 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 20. [Build A Machine Learning Solutions With Scikit-Learn Library In A Delphi Windows App](https://pythongui.org/build-a-machine-learning-solutions-with-scikit-learn-library-in-a-delphi-windows-app/)
 
+21. [Learn To Build A Python GUI For Interactive Data Visualizations Using Bokeh Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-interactive-data-visualizations-using-bokeh-library-in-a-delphi-windows-app/)
+
+22. [Integrate Robust Similarity Queries Capabilities To Your Python GUI App With Powerful Gensim Library](https://pythongui.org/integrate-robust-similarity-queries-capabilities-to-your-python-gui-app-with-powerful-gensim-library/)
+
+23. [Draw Visually Stunning Networks In Your Python GUI App Using NetworkX Python Library](https://pythongui.org/draw-visually-stunning-networks-in-your-python-gui-app-using-networkx-python-library/)
+
+24. [Easily Build A Python GUI For Video Games and Other Multimedia Applications Using Pygame Library In A Delphi Windows App](https://pythongui.org/easily-build-a-python-gui-for-video-games-and-other-multimedia-applications-using-pygame-library-in-a-delphi-windows-app/)
+
+25. [Build A Python GUI Apps With Powerful Natural Language Processing Capabilities Using TextBlob Library In A Delphi Windows App](https://pythongui.org/build-a-python-gui-apps-with-powerful-natural-language-processing-capabilities-using-textblob-library-in-a-delphi-windows-app/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
