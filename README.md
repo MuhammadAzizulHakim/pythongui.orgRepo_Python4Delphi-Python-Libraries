@@ -51,4 +51,34 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 25. [Build A Python GUI Apps With Powerful Natural Language Processing Capabilities Using TextBlob Library In A Delphi Windows App](https://pythongui.org/build-a-python-gui-apps-with-powerful-natural-language-processing-capabilities-using-textblob-library-in-a-delphi-windows-app/)
 
+26. [How To Make An Ultra-Fast Computer Vision Windows App](https://pythongui.org/how-to-make-an-ultra-fast-computer-vision-windows-app/)
+
+27. [This Is How To Build A Powerful Face Recognition Windows App](https://pythongui.org/this-is-how-to-build-a-powerful-face-recognition-windows-app/)
+
+28. [All You Need To Process Images With Scikit-Image In A Windows App](https://pythongui.org/all-you-need-to-process-images-with-scikit-image-in-a-windows-app/)
+
+29. [3 Ways To Create Enterprise-Grade Graphics Using The Seaborn Library](https://pythongui.org/3-ways-to-create-enterprise-grade-graphics-using-the-seaborn-library/)
+
+30. [What You Need To Create A Secure Python Password Generator](https://pythongui.org/what-you-need-to-create-a-secure-python-password-generator/)
+
+31. [This Is How To Automatically Parse RSS Feeds In Your Apps](https://pythongui.org/this-is-how-to-automatically-parse-rss-feeds-in-your-apps/)
+
+32. [How To Make A GUI For Learning Python Using Turtle Library](https://pythongui.org/how-to-make-a-gui-for-learning-python-using-turtle-library/)
+
+33. [What You Need To Automatically Scrape Instagram Posts](https://pythongui.org/what-you-need-to-automatically-scrape-instagram-posts/)
+
+34. [How To Make Apps With Advanced Natural Language Processing](https://pythongui.org/how-to-make-apps-with-advanced-natural-language-processing/)
+
+35. [How To Build A Python GUI For Stunning Data Visualizations](https://pythongui.org/how-to-build-a-python-gui-for-stunning-data-visualizations/)
+
+36. [How To Build A GUI For Deep Learning With Apache’s MXNet](https://pythongui.org/how-to-build-a-gui-for-deep-learning-with-apaches-mxnet/)
+
+37. [How To Build A GUI For Optical Character Recognition](https://pythongui.org/how-to-build-a-gui-for-optical-character-recognition/)
+
+38. [This Is How To Make A Deep Learning Computer Vision App](https://pythongui.org/this-is-how-to-make-a-deep-learning-computer-vision-app/)
+
+39. [Powerful Statistical And Time Series Analysis Using statsmodels Library In A Delphi Windows App](https://pythongui.org/what-you-need-to-add-powerful-statistical-and-series-analysis/)
+
+40. [What You Need To Automatically Scrape Millions Of Tweets](https://pythongui.org/what-you-need-to-automatically-scrape-millions-of-tweets/)
+
 Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
