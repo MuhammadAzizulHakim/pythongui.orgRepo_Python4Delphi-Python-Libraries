@@ -81,4 +81,14 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 40. [What You Need To Automatically Scrape Millions Of Tweets](https://pythongui.org/what-you-need-to-automatically-scrape-millions-of-tweets/)
 
-Powered by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi), [pythongui.org](https://pythongui.org/), and the [Python4Delphi library](https://github.com/pyscripter/python4delphi).
+FAQs (supported by LLMs):
+
+1. [How To Make More Than 20 ChatGPT Prompts Work With Python GUI Builders And Pillow Library?](https://pythongui.org/how-to-make-more-than-20-chatgpt-prompts-work-with-python-gui-builders-and-pillow-library/)
+
+2. [How To Make More Than 20 ChatGPT Prompts Work With Python GUI Builders And Matplotlib Library?](https://pythongui.org/how-to-make-more-than-20-chatgpt-prompts-work-with-python-gui-builders-and-matplotlib-library/)
+
+<h2>Repository structure</h2>
+The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
+
+<h2>Sponsorship</h2>
+This repository is proudly sponsored by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and powered by [Python4Delphi](https://github.com/pyscripter/python4delphi/) & [pythongui.org](https://pythongui.org/). We appreciate their support in making these articles and resources available to the community.
