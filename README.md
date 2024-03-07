@@ -92,4 +92,4 @@ The repository is organized into folders, with each folder corresponding to a sp
 
 <h2>Sponsorship</h2>
 
-This repository is proudly sponsored by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and powered by [Python4Delphi](https://github.com/pyscripter/python4delphi/) & [pythongui.org](https://pythongui.org/). We appreciate their support in making these articles and resources available to the community.
+This repository is proudly sponsored by [Embarcadero Delphi](https://www.embarcadero.com/products/delphi) and powered by [Python4Delphi](https://github.com/pyscripter/python4delphi/) library & [pythongui.org](https://pythongui.org/). We appreciate their support in making these articles and resources available to the community.
