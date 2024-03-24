@@ -1,6 +1,10 @@
 # pythongui.org Repo: Python4Delphi + Python Libraries
 This is a code repository for my articles on [pythongui.org](https://pythongui.org/), about implementing Python4Delphi combined with most powerful and popular Python libraries. 
 
+<h2>Published articles</h2>
+
+<h3>Implementing integration between Python4Delphi and popular Python libraries</h3>
+
 1. Pillow: [Learn To Build A Python GUI For Easily Processing Images With Pillow Library In A Delphi Windows App](https://pythongui.org/learn-to-build-a-python-gui-for-easily-processing-images-with-pillow-library-in-a-delphi-windows-app/)
 
 2. Matplotlib: [Learn To Work With Real-World Graphics Using The Python Matplotlib Library In A Delphi Windows App](https://pythongui.org/learn-to-work-with-real-world-graphics-using-the-python-matplotlib-library-in-a-delphi-windows-app/)
@@ -81,7 +85,7 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 40. Snscrape, Tweepy: [What You Need To Automatically Scrape Millions Of Tweets](https://pythongui.org/what-you-need-to-automatically-scrape-millions-of-tweets/)
 
-FAQs (supported by LLMs):
+<h3>FAQs (supported by LLMs):</h3>
 
 1. [How To Make More Than 20 ChatGPT Prompts Work With Python GUI Builders And Pillow Library?](https://pythongui.org/how-to-make-more-than-20-chatgpt-prompts-work-with-python-gui-builders-and-pillow-library/)
 
