@@ -87,9 +87,9 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 <h3>FAQs (supported by LLMs):</h3>
 
-1. [How To Make More Than 20 ChatGPT Prompts Work With Python GUI Builders And Pillow Library?](https://pythongui.org/how-to-make-more-than-20-chatgpt-prompts-work-with-python-gui-builders-and-pillow-library/)
+1. Pillow FAQs: [How To Make More Than 20 ChatGPT Prompts Work With Python GUI Builders And Pillow Library?](https://pythongui.org/how-to-make-more-than-20-chatgpt-prompts-work-with-python-gui-builders-and-pillow-library/)
 
-2. [How To Make More Than 20 ChatGPT Prompts Work With Python GUI Builders And Matplotlib Library?](https://pythongui.org/how-to-make-more-than-20-chatgpt-prompts-work-with-python-gui-builders-and-matplotlib-library/)
+2. Matplotlib FAQs: [How To Make More Than 20 ChatGPT Prompts Work With Python GUI Builders And Matplotlib Library?](https://pythongui.org/how-to-make-more-than-20-chatgpt-prompts-work-with-python-gui-builders-and-matplotlib-library/)
 
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
