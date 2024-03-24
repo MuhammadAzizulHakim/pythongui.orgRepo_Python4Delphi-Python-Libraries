@@ -1,4 +1,4 @@
-# pythongui.org Repo: Python4Delphi + Python Libraries
+# Python4Delphi + Python Libraries Use Cases Repository
 This is a code repository for my articles on [pythongui.org](https://pythongui.org/), about implementing Python4Delphi combined with most powerful and popular Python libraries. 
 
 <h2>Published articles</h2>
