@@ -80,15 +80,15 @@ PySimpleGUI - How to Draw Shapes on an Image with a GUI. _Mouse Vs Python. [dev.
 ### [40] PyPI (Python Package Index). (2023). 
 Pillow 10.1.0 - Python Imaging Library (Fork). _Python Software Foundation. [pypi.org/project/Pillow](https://pypi.org/project/Pillow/)_
 ### [41] PyPI (Python Package Index). (2021). 
-PyForms-GUI 5 - Pyforms is a Python framework to develop GUI applications based on pyqt. pypi.org/project/PyForms-GUI
+PyForms-GUI 5 - Pyforms is a Python framework to develop GUI applications based on pyqt. _[pypi.org/project/PyForms-GUI](https://pypi.org/project/PyForms-GUI/)_
 ### [42] PyPI (Python Package Index). (2023). 
-dearpygui 1.10.1 - DearPyGui: A simple Python GUI Toolkit. Python Software Foundation. pypi.org/project/dearpygui
+dearpygui 1.10.1 - DearPyGui: A simple Python GUI Toolkit. _Python Software Foundation. [pypi.org/project/dearpygui](https://pypi.org/project/dearpygui/)_
 ### [43] Hoffstadt, J. and other contributors. (2023). 
-Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies. GitHub repository. github.com/hoffstadt/DearPyGui
+Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies. _GitHub repository. [github.com/hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)_
 ### [44] Morano, A. G. (2021). 
-dpg-examples: DearPyGui API examples. GitHub repository. github.com/Amorano/dpg-examples
+dpg-examples: DearPyGui API examples. _GitHub repository. [github.com/Amorano/dpg-examples](https://github.com/Amorano/dpg-examples)_
 ### [45] Griggio, A. (2002-2007), Grohmann, C. (2011-2016), and Schwertberger, D. (2017-2020). 
-wxGlade: A GUI builder written in Python for the GUI toolkit wxWidgets/wxPython. GitHub repository. github.com/wxGlade/wxGlade
+wxGlade: A GUI builder written in Python for the GUI toolkit wxWidgets/wxPython. _GitHub repository. [github.com/wxGlade/wxGlade](https://github.com/wxGlade/wxGlade)_
 ### [46] Griggio, A. (2002-2007), Grohmann, C. (2011-2016), and Schwertberger, D. (2017-2020). 
 wxGlade: A GUI builder for wxWidgets. SourceForge. wxglade.sourceforge.net
 ### [47] Vromans, J. (2005). 
