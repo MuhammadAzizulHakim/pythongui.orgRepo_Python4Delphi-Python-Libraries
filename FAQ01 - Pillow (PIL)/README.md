@@ -22,11 +22,11 @@ Python PIL | Image.thumbnail() Method. _GeeksForGeeks. [geeksforgeeks.org/python
 ### [11] Tutorials Point. (2023). 
 Python Pillow - Creating Thumbnails. _Tutorials Point. [tutorialspoint.com/python_pillow/python_pillow_creating_thumbnails.htm](https://www.tutorialspoint.com/python_pillow/python_pillow_creating_thumbnails.htm)_
 ### [12] Grando, U. (2022). 
-How to Create a Custom-Sized Thumbnail in Python Using Pillow. Python in Plain English. python.plainenglish.io/how-to-create-a-custom-sized-thumbnail-in-python-using-pillow-50d6386150a5
+How to Create a Custom-Sized Thumbnail in Python Using Pillow. _Python in Plain English. [python.plainenglish.io/how-to-create-a-custom-sized-thumbnail-in-python-using-pillow-50d6386150a5](https://python.plainenglish.io/how-to-create-a-custom-sized-thumbnail-in-python-using-pillow-50d6386150a5)_
 ### [13] Hakim, M. A. (2021). 
-Learn To Build A Python GUI For Easily Processing Images With Pillow Library In A Delphi Windows App. PythonGUI.org. Embarcadero Technologies. pythongui.org/learn-to-build-a-python-gui-for-easily-processing-images-with-pillow-library-in-a-delphi-windows-app
+Learn To Build A Python GUI For Easily Processing Images With Pillow Library In A Delphi Windows App. _PythonGUI.org. Embarcadero Technologies. [pythongui.org/learn-to-build-a-python-gui-for-easily-processing-images-with-pillow-library-in-a-delphi-windows-app](https://pythongui.org/learn-to-build-a-python-gui-for-easily-processing-images-with-pillow-library-in-a-delphi-windows-app/)_
 ### [14] Fedchenko, N. (2020). 
-Learn To Build A Python GUI For Processing Images With Pillow Library In A Delphi Windows App. Embarcadero Blogs.   blogs.embarcadero.com/learn-to-build-a-python-gui-for-processing-images-with-pillow-library-in-a-delphi-windows-app
+Learn To Build A Python GUI For Processing Images With Pillow Library In A Delphi Windows App. _Embarcadero Blogs.   [blogs.embarcadero.com/learn-to-build-a-python-gui-for-processing-images-with-pillow-library-in-a-delphi-windows-app](https://blogs.embarcadero.com/learn-to-build-a-python-gui-for-processing-images-with-pillow-library-in-a-delphi-windows-app/)_
 ### [15] Anbarasan. (2020). 
 Easily Use A Popular Python Image Library In A Delphi Windows GUI App. Embarcadero Blogs. blogs.embarcadero.com/easily-use-a-popular-python-image-library-in-a-delphi-windows-gui-app
 ### [16] Python GUI Admin. (2020). 
