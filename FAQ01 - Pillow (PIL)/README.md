@@ -1,6 +1,6 @@
 # References & further readings (as recommended by Bing Chat/Copilot responses)
 ### [1] Lundh, F., Clark, J. A., and other contributors. (1995-2023). 
-Image file formats. Pillow (PIL Fork) 10.1.0 documentation.  pillow.readthedocs.io/en/stable/handbook/image-file-formats.html
+Image file formats. Pillow (PIL Fork) 10.1.0 documentation.  [pillow.readthedocs.io/en/stable/handbook/image-file-formats.html](https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html)
 ### [2] Lundh, F., Clark, J. A., and other contributors. (1995-2023). 
 Pillow. Pillow (PIL Fork) 10.1.0 documentation. pillow.readthedocs.io/en/stable
 [3] Gruppetta, S. (2021). 
