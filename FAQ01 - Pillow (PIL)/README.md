@@ -40,15 +40,15 @@ Delphi VCL & FMX Libraries for Python. _Embarcadero Technologies. [embarcadero.c
 ### [20] ActiveState. (2020). 
 How To Add Images In Tkinter. _ActiveState Software Inc. [activestate.com/resources/quick-reads/how-to-add-images-in-tkinter](https://www.activestate.com/resources/quick-reads/how-to-add-images-in-tkinter/)_
 ### [21] Stack Overflow. (2022). 
-How do I add an image using pillow to my tkinter GUI? Stack Overflow. stackoverflow.com/questions/70921924/how-do-i-add-an-image-using-pillow-to-my-tkinter-gui
+How do I add an image using pillow to my tkinter GUI? _Stack Overflow. [stackoverflow.com/questions/70921924/how-do-i-add-an-image-using-pillow-to-my-tkinter-gui](https://stackoverflow.com/questions/70921924/how-do-i-add-an-image-using-pillow-to-my-tkinter-gui)_
 ### [22] Sharma, D. P. (2021). 
-How do I use PIL with Tkinter? Tutorials Point. tutorialspoint.com/how-do-i-use-pil-with-tkinter
+How do I use PIL with Tkinter? _Tutorials Point. [tutorialspoint.com/how-do-i-use-pil-with-tkinter](https://www.tutorialspoint.com/how-do-i-use-pil-with-tkinter)_
 ### [23] Lundh, F., Clark, J. A., and other contributors. (1995-2023). 
-ImageQt Module. Pillow (PIL Fork) 10.1.0 documentation. pillow.readthedocs.io/en/stable/reference/ImageQt.html
+ImageQt Module. _Pillow (PIL Fork) 10.1.0 documentation. [pillow.readthedocs.io/en/stable/reference/ImageQt.html](https://pillow.readthedocs.io/en/stable/reference/ImageQt.html)_
 ### [24] Stack Overflow. (2020). 
-How to insert a PIL.Image in a PyQt canvas - PyQt5. Stack Overflow. stackoverflow.com/questions/63138735/how-to-insert-a-pil-image-in-a-pyqt-canvas-pyqt5
+How to insert a PIL.Image in a PyQt canvas - PyQt5. _Stack Overflow. [stackoverflow.com/questions/63138735/how-to-insert-a-pil-image-in-a-pyqt-canvas-pyqt5](https://stackoverflow.com/questions/63138735/how-to-insert-a-pil-image-in-a-pyqt-canvas-pyqt5)_
 ### [25] Stack Overflow. (2018). 
-Display PIL Image on Kivy Canvas. Stack Overflow. stackoverflow.com/questions/51806100/display-pil-image-on-kivy-canvas
+Display PIL Image on Kivy Canvas. _Stack Overflow. [stackoverflow.com/questions/51806100/display-pil-image-on-kivy-canvas](https://stackoverflow.com/questions/51806100/display-pil-image-on-kivy-canvas)_
 ### [26] Stack Overflow. (2016). 
 How to import python PIL on android and kivy? Stack Overflow. stackoverflow.com/questions/38557731/how-to-import-python-pil-on-android-and-kivy
 ### [27] Rodríguez, A., Yuri, I., Bulgakov, A., and KivyMD contributors. (2022). 
