@@ -50,15 +50,15 @@ How to insert a PIL.Image in a PyQt canvas - PyQt5. _Stack Overflow. [stackoverf
 ### [25] Stack Overflow. (2018). 
 Display PIL Image on Kivy Canvas. _Stack Overflow. [stackoverflow.com/questions/51806100/display-pil-image-on-kivy-canvas](https://stackoverflow.com/questions/51806100/display-pil-image-on-kivy-canvas)_
 ### [26] Stack Overflow. (2016). 
-How to import python PIL on android and kivy? Stack Overflow. stackoverflow.com/questions/38557731/how-to-import-python-pil-on-android-and-kivy
+How to import python PIL on android and kivy? _Stack Overflow. [stackoverflow.com/questions/38557731/how-to-import-python-pil-on-android-and-kivy](https://stackoverflow.com/questions/38557731/how-to-import-python-pil-on-android-and-kivy)_
 ### [27] Rodríguez, A., Yuri, I., Bulgakov, A., and KivyMD contributors. (2022). 
-pip install kivymd - Set of widgets for Kivy inspired by Google's Material Design. Python Software Foundation. pypi.org/project/kivymd
+pip install kivymd - Set of widgets for Kivy inspired by Google's Material Design. _Python Software Foundation. [pypi.org/project/kivymd](https://pypi.org/project/kivymd/)_
 ### [28] DEV Community. (2021). 
-How to use Google Colab to package KivyMD applications with buildozer. DEV Community. dev.to/ngonidzashe/comment/1jl0e
+How to use Google Colab to package KivyMD applications with buildozer. _DEV Community. [dev.to/ngonidzashe/comment/1jl0e](https://dev.to/ngonidzashe/comment/1jl0e)_
 ### [29] anantasty. (2016). 
-Issue with Android example #1816. GitHub. github.com/kivy/python-for-android/issues/1816
+Issue with Android example #1816. _GitHub. [github.com/kivy/python-for-android/issues/1816](https://github.com/kivy/python-for-android/issues/1816)_
 ### [30] Stack Overflow. (2016). 
-Display PIL image in wx python in Windows. Stack Overflow. stackoverflow.com/questions/39547695/display-pil-image-in-wx-python-in-windows
+Display PIL image in wx python in Windows. _Stack Overflow. [stackoverflow.com/questions/39547695/display-pil-image-in-wx-python-in-windows](https://stackoverflow.com/questions/39547695/display-pil-image-in-wx-python-in-windows)_
 ### [31] Stack Overflow. (2020). 
 Quick pixel manipulation with Pillow and/or NumPy. Stack Overflow. stackoverflow.com/questions/62616164/quick-pixel-manipulation-with-pillow-and-or-numpy
 ### [32] Stack Overflow. (2017). 
