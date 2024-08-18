@@ -28,13 +28,13 @@ Learn To Build A Python GUI For Easily Processing Images With Pillow Library In 
 ### [14] Fedchenko, N. (2020). 
 Learn To Build A Python GUI For Processing Images With Pillow Library In A Delphi Windows App. _Embarcadero Blogs.   [blogs.embarcadero.com/learn-to-build-a-python-gui-for-processing-images-with-pillow-library-in-a-delphi-windows-app](https://blogs.embarcadero.com/learn-to-build-a-python-gui-for-processing-images-with-pillow-library-in-a-delphi-windows-app/)_
 ### [15] Anbarasan. (2020). 
-Easily Use A Popular Python Image Library In A Delphi Windows GUI App. Embarcadero Blogs. blogs.embarcadero.com/easily-use-a-popular-python-image-library-in-a-delphi-windows-gui-app
+Easily Use A Popular Python Image Library In A Delphi Windows GUI App. _Embarcadero Blogs. [blogs.embarcadero.com/easily-use-a-popular-python-image-library-in-a-delphi-windows-gui-app](https://blogs.embarcadero.com/easily-use-a-popular-python-image-library-in-a-delphi-windows-gui-app/)_
 ### [16] Python GUI Admin. (2020). 
-Learn About Integrating Pillow Image Processing Library Into A Windows Python GUI App. PythonGUI.org. Embarcadero Technologies. pythongui.org/learn-about-integrating-pillow-image-processing-library-into-a-windows-python-gui-app
+Learn About Integrating Pillow Image Processing Library Into A Windows Python GUI App. _PythonGUI.org. Embarcadero Technologies. [pythongui.org/learn-about-integrating-pillow-image-processing-library-into-a-windows-python-gui-app](https://pythongui.org/learn-about-integrating-pillow-image-processing-library-into-a-windows-python-gui-app/)_
 ### [17] Embarcadero Technologies. (2023). 
-DelphiFMX4Python: Python GUI module powered by Delphi's FireMonkey framework. Supporting Windows, MacOS, Linux, and Android GUI development. GitHub repository. github.com/Embarcadero/DelphiFMX4Python
+DelphiFMX4Python: Python GUI module powered by Delphi's FireMonkey framework. Supporting Windows, MacOS, Linux, and Android GUI development. _GitHub repository. [github.com/Embarcadero/DelphiFMX4Python](https://github.com/Embarcadero/DelphiFMX4Python)_
 ### [18] McKeeth, J. (2022). 
-Introduction to Python GUI Development with Delphi for Python (VCL and FMX).  Embarcadero Blogs. blogs.embarcadero.com/introduction-to-python-gui-development-with-delphi-for-python-vcl-fmx
+Introduction to Python GUI Development with Delphi for Python (VCL and FMX).  _Embarcadero Blogs. [blogs.embarcadero.com/introduction-to-python-gui-development-with-delphi-for-python-vcl-fmx](https://blogs.embarcadero.com/introduction-to-python-gui-development-with-delphi-for-python-vcl-fmx/)_
 ### [19] Embarcadero Technologies. (2023). 
 Delphi VCL & FMX Libraries for Python. Embarcadero Technologies. embarcadero.com/new-tools/python/delphi-4-python
 ### [20] ActiveState. (2020). 
