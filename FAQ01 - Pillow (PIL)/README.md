@@ -70,15 +70,15 @@ Python GUI Development Using PySide6 and Qt. _freeCodeCamp. [freecodecamp.org/ne
 ### [35] The Qt Company Ltd. (2023). 
 PySide6.QtGui. PySide6.QtGui Documentation. _The Qt Company Ltd. [doc.qt.io/qtforpython-6/PySide6/QtGui/index.html](https://doc.qt.io/qtforpython-6/PySide6/QtGui/index.html)_
 ### [36] Fitzpatrick, M. (2023). 
-Creating your first app with PySide2. Python GUIs. pythonguis.com/tutorials/pyside-creating-your-first-window
+Creating your first app with PySide2. _Python GUIs. [pythonguis.com/tutorials/pyside-creating-your-first-window](https://www.pythonguis.com/tutorials/pyside-creating-your-first-window/)_
 ### [37] Fitzpatrick, M. (2023). 
-Creating custom GUI widgets in PySide2. Python GUIs. pythonguis.com/tutorials/pyside-creating-your-own-custom-widgets
+Creating custom GUI widgets in PySide2. _Python GUIs. [pythonguis.com/tutorials/pyside-creating-your-own-custom-widgets](https://www.pythonguis.com/tutorials/pyside-creating-your-own-custom-widgets/)_
 ### [38] Tutorials Point. (2023). 
-PySimpleGUI - Working with PIL. Tutorials Point. tutorialspoint.com/pysimplegui/pysimplegui_working_with_pil.htm
+PySimpleGUI - Working with PIL. _Tutorials Point. [tutorialspoint.com/pysimplegui/pysimplegui_working_with_pil.htm](https://www.tutorialspoint.com/pysimplegui/pysimplegui_working_with_pil.htm)_
 ### [39] Driscoll, M. (2023). 
-PySimpleGUI - How to Draw Shapes on an Image with a GUI. Mouse Vs Python. dev.pythonlibrary.org/2021/02/24/pysimplegui-how-to-draw-shapes-on-an-image-with-a-gui
+PySimpleGUI - How to Draw Shapes on an Image with a GUI. _Mouse Vs Python. [dev.pythonlibrary.org/2021/02/24/pysimplegui-how-to-draw-shapes-on-an-image-with-a-gui](https://dev.pythonlibrary.org/2021/02/24/pysimplegui-how-to-draw-shapes-on-an-image-with-a-gui/)_
 ### [40] PyPI (Python Package Index). (2023). 
-Pillow 10.1.0 - Python Imaging Library (Fork). Python Software Foundation. pypi.org/project/Pillow
+Pillow 10.1.0 - Python Imaging Library (Fork). _Python Software Foundation. [pypi.org/project/Pillow](https://pypi.org/project/Pillow/)_
 ### [41] PyPI (Python Package Index). (2021). 
 PyForms-GUI 5 - Pyforms is a Python framework to develop GUI applications based on pyqt. pypi.org/project/PyForms-GUI
 ### [42] PyPI (Python Package Index). (2023). 
