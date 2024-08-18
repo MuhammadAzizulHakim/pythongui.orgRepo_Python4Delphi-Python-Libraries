@@ -1,10 +1,10 @@
 # References & further readings (as recommended by Bing Chat/Copilot responses)
 ### [1] Lundh, F., Clark, J. A., and other contributors. (1995-2023). 
-Image file formats. Pillow (PIL Fork) 10.1.0 documentation.  [pillow.readthedocs.io/en/stable/handbook/image-file-formats.html](https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html)
+Image file formats. _Pillow (PIL Fork) 10.1.0 documentation._  [pillow.readthedocs.io/en/stable/handbook/image-file-formats.html](https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html)
 ### [2] Lundh, F., Clark, J. A., and other contributors. (1995-2023). 
-Pillow. Pillow (PIL Fork) 10.1.0 documentation. pillow.readthedocs.io/en/stable
-[3] Gruppetta, S. (2021). 
-Image Processing With the Python Pillow Library. Real Python.  realpython.com/image-processing-with-the-python-pillow-library
+Pillow. _Pillow (PIL Fork) 10.1.0 documentation._ [pillow.readthedocs.io/en/stable](https://pillow.readthedocs.io/en/stable/)
+### [3] Gruppetta, S. (2021). 
+Image Processing With the Python Pillow Library. _Real Python._  [realpython.com/image-processing-with-the-python-pillow-library](https://realpython.com/image-processing-with-the-python-pillow-library/)
 [4] Stack Overflow. (2021). 
 Unable to 'pip install Pillow'. It's giving me an error that 'headers or lib files could not be found for jpeg'. Stack Overflow. stackoverflow.com/questions/69212433/unable-to-pip-install-pillow-its-giving-me-an-error-that-headers-or-lib-fil
 [5] Stack Overflow. (2019). 
