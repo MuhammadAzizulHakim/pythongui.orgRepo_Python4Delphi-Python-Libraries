@@ -16,11 +16,11 @@ How To Convert Image Format Using Pillow In Python. _[code-learner.com/how-to-co
 ### [8] PythonExamples. (2023). 
 Python Pillow – Convert JPEG to PNG. _[pythonexamples.org/python-pillow-convert-jpeg-to-png](https://pythonexamples.org/python-pillow-convert-jpeg-to-png/)_
 ### [9] Devara, G. (2023). 
-Convert an image into jpg format using Pillow in Python. Tutorials Point. tutorialspoint.com/convert-an-image-into-jpg-format-using-pillow-in-python
+Convert an image into jpg format using Pillow in Python. _Tutorials Point. [tutorialspoint.com/convert-an-image-into-jpg-format-using-pillow-in-python](https://www.tutorialspoint.com/convert-an-image-into-jpg-format-using-pillow-in-python)_
 ### [10] Sunitamamgai. (2019). 
-Python PIL | Image.thumbnail() Method. GeeksForGeeks.  geeksforgeeks.org/python-pil-image-thumbnail-method
+Python PIL | Image.thumbnail() Method. _GeeksForGeeks. [geeksforgeeks.org/python-pil-image-thumbnail-method](https://www.geeksforgeeks.org/python-pil-image-thumbnail-method/)_
 ### [11] Tutorials Point. (2023). 
-Python Pillow - Creating Thumbnails. Tutorials Point. tutorialspoint.com/python_pillow/python_pillow_creating_thumbnails.htm
+Python Pillow - Creating Thumbnails. _Tutorials Point. [tutorialspoint.com/python_pillow/python_pillow_creating_thumbnails.htm](https://www.tutorialspoint.com/python_pillow/python_pillow_creating_thumbnails.htm)_
 ### [12] Grando, U. (2022). 
 How to Create a Custom-Sized Thumbnail in Python Using Pillow. Python in Plain English. python.plainenglish.io/how-to-create-a-custom-sized-thumbnail-in-python-using-pillow-50d6386150a5
 ### [13] Hakim, M. A. (2021). 
