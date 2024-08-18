@@ -6,9 +6,9 @@ Pillow. _Pillow (PIL Fork) 10.1.0 documentation._ _[pillow.readthedocs.io/en/sta
 ### [3] Gruppetta, S. (2021). 
 Image Processing With the Python Pillow Library. _Real Python._  _[realpython.com/image-processing-with-the-python-pillow-library](https://realpython.com/image-processing-with-the-python-pillow-library/)_
 ### [4] Stack Overflow. (2021). 
-Unable to 'pip install Pillow'. It's giving me an error that 'headers or lib files could not be found for jpeg'. Stack Overflow. stackoverflow.com/questions/69212433/unable-to-pip-install-pillow-its-giving-me-an-error-that-headers-or-lib-fil
+Unable to 'pip install Pillow'. It's giving me an error that 'headers or lib files could not be found for jpeg'. _Stack Overflow._ _[stackoverflow.com/questions/69212433/unable-to-pip-install-pillow-its-giving-me-an-error-that-headers-or-lib-fil](https://stackoverflow.com/questions/69212433/unable-to-pip-install-pillow-its-giving-me-an-error-that-headers-or-lib-fil)_
 ### [5] Stack Overflow. (2019). 
-Pip can't install pillow. Stack Overflow. stackoverflow.com/questions/54496599/pip-cant-install-pillow
+Pip can't install pillow. _Stack Overflow. [stackoverflow.com/questions/54496599/pip-cant-install-pillow](https://stackoverflow.com/questions/54496599/pip-cant-install-pillow)_
 ### [6] nithinviswakarma0010. (2020). 
 Convert an image into jpg format using Pillow in Python. GeeksForGeeks.  geeksforgeeks.org/convert-an-image-into-jpg-format-using-pillow-in-python
 ### [7] code-learner.com. (2023). 
@@ -71,37 +71,37 @@ Python GUI Development Using PySide6 and Qt. freeCodeCamp. freecodecamp.org/news
 PySide6.QtGui. PySide6.QtGui Documentation. The Qt Company Ltd. doc.qt.io/qtforpython-6/PySide6/QtGui/index.html
 ### [36] Fitzpatrick, M. (2023). 
 Creating your first app with PySide2. Python GUIs. pythonguis.com/tutorials/pyside-creating-your-first-window
-[37] Fitzpatrick, M. (2023). 
+### [37] Fitzpatrick, M. (2023). 
 Creating custom GUI widgets in PySide2. Python GUIs. pythonguis.com/tutorials/pyside-creating-your-own-custom-widgets
-[38] Tutorials Point. (2023). 
+### [38] Tutorials Point. (2023). 
 PySimpleGUI - Working with PIL. Tutorials Point. tutorialspoint.com/pysimplegui/pysimplegui_working_with_pil.htm
-[39] Driscoll, M. (2023). 
+### [39] Driscoll, M. (2023). 
 PySimpleGUI - How to Draw Shapes on an Image with a GUI. Mouse Vs Python. dev.pythonlibrary.org/2021/02/24/pysimplegui-how-to-draw-shapes-on-an-image-with-a-gui
-[40] PyPI (Python Package Index). (2023). 
+### [40] PyPI (Python Package Index). (2023). 
 Pillow 10.1.0 - Python Imaging Library (Fork). Python Software Foundation. pypi.org/project/Pillow
-[41] PyPI (Python Package Index). (2021). 
+### [41] PyPI (Python Package Index). (2021). 
 PyForms-GUI 5 - Pyforms is a Python framework to develop GUI applications based on pyqt. pypi.org/project/PyForms-GUI
-[42] PyPI (Python Package Index). (2023). 
+### [42] PyPI (Python Package Index). (2023). 
 dearpygui 1.10.1 - DearPyGui: A simple Python GUI Toolkit. Python Software Foundation. pypi.org/project/dearpygui
-[43] Hoffstadt, J. and other contributors. (2023). 
+### [43] Hoffstadt, J. and other contributors. (2023). 
 Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies. GitHub repository. github.com/hoffstadt/DearPyGui
-[44] Morano, A. G. (2021). 
+### [44] Morano, A. G. (2021). 
 dpg-examples: DearPyGui API examples. GitHub repository. github.com/Amorano/dpg-examples
-[45] Griggio, A. (2002-2007), Grohmann, C. (2011-2016), and Schwertberger, D. (2017-2020). 
+### [45] Griggio, A. (2002-2007), Grohmann, C. (2011-2016), and Schwertberger, D. (2017-2020). 
 wxGlade: A GUI builder written in Python for the GUI toolkit wxWidgets/wxPython. GitHub repository. github.com/wxGlade/wxGlade
-[46] Griggio, A. (2002-2007), Grohmann, C. (2011-2016), and Schwertberger, D. (2017-2020). 
+### [46] Griggio, A. (2002-2007), Grohmann, C. (2011-2016), and Schwertberger, D. (2017-2020). 
 wxGlade: A GUI builder for wxWidgets. SourceForge. wxglade.sourceforge.net
-[47] Vromans, J. (2005). 
+### [47] Vromans, J. (2005). 
 GUI development with wxGlade. Squirrel Consultancy.  vromans.org/johan/articles/wxglade.pdf
-[48] Gupta, K. (2021). 
+### [48] Gupta, K. (2021). 
 Everything You Need To Know About PandasGUI. Analytics Vidhya. analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui
-[49] Jay (@jayzpio). (2021). 
+### [49] Jay (@jayzpio). (2021). 
 Exploratory Data Analysis With PandasGUI. Python In Office. pythoninoffice.com/exploratory-data-analysis-with-pandasgui
-[50] PyPI (Python Package Index). (2023). 
+### [50] PyPI (Python Package Index). (2023). 
 pandasgui 0.2.14: A GUI for Pandas DataFrames. Python Software Foundation. pypi.org/project/pandasgui
-[51] Klein, A. and other Flexx contributors. (2015-2022). 
+### [51] Klein, A. and other Flexx contributors. (2015-2022). 
 flexx: Write desktop and web apps in pure Python. GitHub repository. github.com/flexxui/flexx
-[52] PyPI (Python Package Index). (2022). 
+### [52] PyPI (Python Package Index). (2022). 
 flexx: Write desktop and web apps in pure Python. Python Software Foundation. pypi.org/project/flexx
-[53] Klein, A. and other Flexx contributors. (2015-2023). 
+### [53] Klein, A. and other Flexx contributors. (2015-2023). 
 flexx documentation. Read the Docs. readthedocs.org/projects/flexx
