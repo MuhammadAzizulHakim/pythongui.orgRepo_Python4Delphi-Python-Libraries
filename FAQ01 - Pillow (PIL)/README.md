@@ -60,15 +60,15 @@ Issue with Android example #1816. _GitHub. [github.com/kivy/python-for-android/i
 ### [30] Stack Overflow. (2016). 
 Display PIL image in wx python in Windows. _Stack Overflow. [stackoverflow.com/questions/39547695/display-pil-image-in-wx-python-in-windows](https://stackoverflow.com/questions/39547695/display-pil-image-in-wx-python-in-windows)_
 ### [31] Stack Overflow. (2020). 
-Quick pixel manipulation with Pillow and/or NumPy. Stack Overflow. stackoverflow.com/questions/62616164/quick-pixel-manipulation-with-pillow-and-or-numpy
+Quick pixel manipulation with Pillow and/or NumPy. _Stack Overflow. [stackoverflow.com/questions/62616164/quick-pixel-manipulation-with-pillow-and-or-numpy](https://stackoverflow.com/questions/62616164/quick-pixel-manipulation-with-pillow-and-or-numpy)_
 ### [32] Stack Overflow. (2017). 
-Converting a PIL image to wxPython bitmap image. Stack Overflow. stackoverflow.com/questions/46606283/converting-a-pil-image-to-wxpython-bitmap-image
+Converting a PIL image to wxPython bitmap image. _Stack Overflow. [stackoverflow.com/questions/46606283/converting-a-pil-image-to-wxpython-bitmap-image](https://stackoverflow.com/questions/46606283/converting-a-pil-image-to-wxpython-bitmap-image)_
 ### [33] Stack Overflow. (2018). 
-Failed building wheel for. Stack Overflow. stackoverflow.com/questions/49743041/failed-building-wheel-for
+Failed building wheel for. _Stack Overflow. [stackoverflow.com/questions/49743041/failed-building-wheel-for](https://stackoverflow.com/questions/49743041/failed-building-wheel-for)_
 ### [34] Carnes, B. (2022). 
-Python GUI Development Using PySide6 and Qt. freeCodeCamp. freecodecamp.org/news/python-gui-development-using-pyside6-and-qt
+Python GUI Development Using PySide6 and Qt. _freeCodeCamp. [freecodecamp.org/news/python-gui-development-using-pyside6-and-qt](https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/)_
 ### [35] The Qt Company Ltd. (2023). 
-PySide6.QtGui. PySide6.QtGui Documentation. The Qt Company Ltd. doc.qt.io/qtforpython-6/PySide6/QtGui/index.html
+PySide6.QtGui. PySide6.QtGui Documentation. _The Qt Company Ltd. [doc.qt.io/qtforpython-6/PySide6/QtGui/index.html](https://doc.qt.io/qtforpython-6/PySide6/QtGui/index.html)_
 ### [36] Fitzpatrick, M. (2023). 
 Creating your first app with PySide2. Python GUIs. pythonguis.com/tutorials/pyside-creating-your-first-window
 ### [37] Fitzpatrick, M. (2023). 
