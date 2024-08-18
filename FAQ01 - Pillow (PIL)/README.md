@@ -36,9 +36,9 @@ DelphiFMX4Python: Python GUI module powered by Delphi's FireMonkey framework. Su
 ### [18] McKeeth, J. (2022). 
 Introduction to Python GUI Development with Delphi for Python (VCL and FMX).  _Embarcadero Blogs. [blogs.embarcadero.com/introduction-to-python-gui-development-with-delphi-for-python-vcl-fmx](https://blogs.embarcadero.com/introduction-to-python-gui-development-with-delphi-for-python-vcl-fmx/)_
 ### [19] Embarcadero Technologies. (2023). 
-Delphi VCL & FMX Libraries for Python. Embarcadero Technologies. embarcadero.com/new-tools/python/delphi-4-python
+Delphi VCL & FMX Libraries for Python. _Embarcadero Technologies. [embarcadero.com/new-tools/python/delphi-4-python](https://www.embarcadero.com/new-tools/python/delphi-4-python)_
 ### [20] ActiveState. (2020). 
-How To Add Images In Tkinter. ActiveState Software Inc. activestate.com/resources/quick-reads/how-to-add-images-in-tkinter
+How To Add Images In Tkinter. _ActiveState Software Inc. [activestate.com/resources/quick-reads/how-to-add-images-in-tkinter](https://www.activestate.com/resources/quick-reads/how-to-add-images-in-tkinter/)_
 ### [21] Stack Overflow. (2022). 
 How do I add an image using pillow to my tkinter GUI? Stack Overflow. stackoverflow.com/questions/70921924/how-do-i-add-an-image-using-pillow-to-my-tkinter-gui
 ### [22] Sharma, D. P. (2021). 
