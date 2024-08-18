@@ -90,18 +90,18 @@ dpg-examples: DearPyGui API examples. _GitHub repository. [github.com/Amorano/dp
 ### [45] Griggio, A. (2002-2007), Grohmann, C. (2011-2016), and Schwertberger, D. (2017-2020). 
 wxGlade: A GUI builder written in Python for the GUI toolkit wxWidgets/wxPython. _GitHub repository. [github.com/wxGlade/wxGlade](https://github.com/wxGlade/wxGlade)_
 ### [46] Griggio, A. (2002-2007), Grohmann, C. (2011-2016), and Schwertberger, D. (2017-2020). 
-wxGlade: A GUI builder for wxWidgets. SourceForge. wxglade.sourceforge.net
+wxGlade: A GUI builder for wxWidgets. _SourceForge. [wxglade.sourceforge.net](https://wxglade.sourceforge.net/)_
 ### [47] Vromans, J. (2005). 
-GUI development with wxGlade. Squirrel Consultancy.  vromans.org/johan/articles/wxglade.pdf
+GUI development with wxGlade. _Squirrel Consultancy.  [vromans.org/johan/articles/wxglade.pdf](https://www.vromans.org/johan/articles/wxglade.pdf)_
 ### [48] Gupta, K. (2021). 
-Everything You Need To Know About PandasGUI. Analytics Vidhya. analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui
+Everything You Need To Know About PandasGUI. _Analytics Vidhya. [analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/)_
 ### [49] Jay (@jayzpio). (2021). 
-Exploratory Data Analysis With PandasGUI. Python In Office. pythoninoffice.com/exploratory-data-analysis-with-pandasgui
+Exploratory Data Analysis With PandasGUI. _Python In Office. [pythoninoffice.com/exploratory-data-analysis-with-pandasgui](https://pythoninoffice.com/exploratory-data-analysis-with-pandasgui/)_
 ### [50] PyPI (Python Package Index). (2023). 
-pandasgui 0.2.14: A GUI for Pandas DataFrames. Python Software Foundation. pypi.org/project/pandasgui
+pandasgui 0.2.14: A GUI for Pandas DataFrames. _Python Software Foundation. [pypi.org/project/pandasgui](https://pypi.org/project/pandasgui/)_
 ### [51] Klein, A. and other Flexx contributors. (2015-2022). 
-flexx: Write desktop and web apps in pure Python. GitHub repository. github.com/flexxui/flexx
+flexx: Write desktop and web apps in pure Python. _GitHub repository. [github.com/flexxui/flexx](https://github.com/flexxui/flexx)_
 ### [52] PyPI (Python Package Index). (2022). 
-flexx: Write desktop and web apps in pure Python. Python Software Foundation. pypi.org/project/flexx
+flexx: Write desktop and web apps in pure Python. _Python Software Foundation. [pypi.org/project/flexx](https://pypi.org/project/flexx/)_
 ### [53] Klein, A. and other Flexx contributors. (2015-2023). 
-flexx documentation. Read the Docs. readthedocs.org/projects/flexx
+flexx documentation. _Read the Docs. [readthedocs.org/projects/flexx](https://readthedocs.org/projects/flexx/)_
