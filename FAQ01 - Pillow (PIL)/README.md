@@ -10,11 +10,11 @@ Unable to 'pip install Pillow'. It's giving me an error that 'headers or lib fil
 ### [5] Stack Overflow. (2019). 
 Pip can't install pillow. _Stack Overflow. [stackoverflow.com/questions/54496599/pip-cant-install-pillow](https://stackoverflow.com/questions/54496599/pip-cant-install-pillow)_
 ### [6] nithinviswakarma0010. (2020). 
-Convert an image into jpg format using Pillow in Python. GeeksForGeeks.  geeksforgeeks.org/convert-an-image-into-jpg-format-using-pillow-in-python
+Convert an image into jpg format using Pillow in Python. _GeeksForGeeks.  [geeksforgeeks.org/convert-an-image-into-jpg-format-using-pillow-in-python](https://www.geeksforgeeks.org/convert-an-image-into-jpg-format-using-pillow-in-python/)_
 ### [7] code-learner.com. (2023). 
-How To Convert Image Format Using Pillow In Python. code-learner.com/how-to-convert-image-format-using-pillow-in-python
+How To Convert Image Format Using Pillow In Python. _[code-learner.com/how-to-convert-image-format-using-pillow-in-python](https://www.code-learner.com/how-to-convert-image-format-using-pillow-in-python/)_
 ### [8] PythonExamples. (2023). 
-Python Pillow – Convert JPEG to PNG. pythonexamples.org/python-pillow-convert-jpeg-to-png
+Python Pillow – Convert JPEG to PNG. _[pythonexamples.org/python-pillow-convert-jpeg-to-png](https://pythonexamples.org/python-pillow-convert-jpeg-to-png/)_
 ### [9] Devara, G. (2023). 
 Convert an image into jpg format using Pillow in Python. Tutorials Point. tutorialspoint.com/convert-an-image-into-jpg-format-using-pillow-in-python
 ### [10] Sunitamamgai. (2019). 
