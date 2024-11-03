@@ -9,7 +9,7 @@ Matplotlib 3.8.2 documentation. _The Matplotlib development team._ _[matplotlib.
 matplotlib 3.8.2 - Python plotting package. _Python Software Foundation._ _[pypi.org/project/matplotlib](https://pypi.org/project/matplotlib/)_
 
 ### [4] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023).
-matplotlib.pyplot.plot. The Matplotlib development team. matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+matplotlib.pyplot.plot. _The Matplotlib development team. [matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)_
 
 ### [5] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023). 
 Anatomy of a figure. The Matplotlib development team. matplotlib.org/stable/gallery/showcase/anatomy.html
