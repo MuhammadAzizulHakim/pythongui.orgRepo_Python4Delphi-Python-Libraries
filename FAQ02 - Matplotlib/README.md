@@ -12,21 +12,21 @@ matplotlib 3.8.2 - Python plotting package. _Python Software Foundation._ _[pypi
 matplotlib.pyplot.plot. _The Matplotlib development team. [matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)_
 
 ### [5] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023). 
-Anatomy of a figure. The Matplotlib development team. matplotlib.org/stable/gallery/showcase/anatomy.html
+Anatomy of a figure. _The Matplotlib development team. [matplotlib.org/stable/gallery/showcase/anatomy.html](https://matplotlib.org/stable/gallery/showcase/anatomy.html)_
 
 ### [6] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023). 
-Pyplot tutorial. The Matplotlib development team. matplotlib.org/stable/tutorials/pyplot.html
+Pyplot tutorial. _The Matplotlib development team. [matplotlib.org/stable/tutorials/pyplot.html](https://matplotlib.org/stable/tutorials/pyplot.html)_
 
 ### [7] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023). 
-Customizing Matplotlib with style sheets and rcParams. The Matplotlib development team. matplotlib.org/stable/users/explain/customizing.html
+Customizing Matplotlib with style sheets and rcParams. _The Matplotlib development team. [matplotlib.org/stable/users/explain/customizing.html](https://matplotlib.org/stable/users/explain/customizing.html)_
 
 ### [8] Earth Lab. (2022). 
-Customize Your Plots Using Matplotlib. Earth Lab, University of Colorado, Boulder. earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-with-matplotlib/introduction-to-matplotlib-plots/customize-plot-colors-labels-matplotlib
+Customize Your Plots Using Matplotlib. _Earth Lab, University of Colorado, Boulder. [earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-with-matplotlib/introduction-to-matplotlib-plots/customize-plot-colors-labels-matplotlib](https://www.earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-with-matplotlib/introduction-to-matplotlib-plots/customize-plot-colors-labels-matplotlib/)_
 
 ### [9] Machine Learning Plus. (2024). 
-Top 50 matplotlib Visualizations – The Master Plots (with full python code). Machine Learning Plus. 
-machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python
+Top 50 matplotlib Visualizations – The Master Plots (with full python code). _Machine Learning Plus. 
+[machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)_
 
 ### [10] Stack Overflow. (2015). 
-How to make matplotlib graphs look professionally done like this? [closed]. Stack Overflow.
-stackoverflow.com/questions/24547047/how-to-make-matplotlib-graphs-look-professionally-done-like-this
+How to make matplotlib graphs look professionally done like this? [closed]. _Stack Overflow.
+[stackoverflow.com/questions/24547047/how-to-make-matplotlib-graphs-look-professionally-done-like-this](https://stackoverflow.com/questions/24547047/how-to-make-matplotlib-graphs-look-professionally-done-like-this)_
