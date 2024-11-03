@@ -4,3 +4,24 @@ Matplotlib: Visualization with Python. _The Matplotlib development team._ _[matp
 
 ### [2] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023). 
 Matplotlib 3.8.2 documentation. _The Matplotlib development team._ _[matplotlib.org/stable/index.html](https://matplotlib.org/stable/index.html)_
+
+### [3] PyPI (Python Package Index). (2023). 
+matplotlib 3.8.2 - Python plotting package. _Python Software Foundation._ _[pypi.org/project/matplotlib](https://pypi.org/project/matplotlib/)_
+
+### [4] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023).
+matplotlib.pyplot.plot. The Matplotlib development team. matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+
+### [5] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023). 
+Anatomy of a figure. The Matplotlib development team. matplotlib.org/stable/gallery/showcase/anatomy.html
+[6] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023). 
+Pyplot tutorial. The Matplotlib development team. matplotlib.org/stable/tutorials/pyplot.html
+[7] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2023). 
+Customizing Matplotlib with style sheets and rcParams. The Matplotlib development team. matplotlib.org/stable/users/explain/customizing.html
+[8] Earth Lab. (2022). 
+Customize Your Plots Using Matplotlib. Earth Lab, University of Colorado, Boulder. earthdatascience.org/courses/scientists-guide-to-plotting-data-in-python/plot-with-matplotlib/introduction-to-matplotlib-plots/customize-plot-colors-labels-matplotlib
+[9] Machine Learning Plus. (2024). 
+Top 50 matplotlib Visualizations – The Master Plots (with full python code). Machine Learning Plus. 
+machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python
+[10] Stack Overflow. (2015). 
+How to make matplotlib graphs look professionally done like this? [closed]. Stack Overflow.
+stackoverflow.com/questions/24547047/how-to-make-matplotlib-graphs-look-professionally-done-like-this
