@@ -59,4 +59,4 @@ Learn To Build A Python GUI For Working with 2D Graphics And The Matplotlib Libr
 Python for Delphi Developers (Part II). _A webinar by Embarcadero Technologies. [blogs.embarcadero.com/wp-content/uploads/2020/09/Python4DelphiPart-2-7796888.pdf](https://blogs.embarcadero.com/wp-content/uploads/2020/09/Python4DelphiPart-2-7796888.pdf)_
 
 ### [20] Hakim, M. A. (2021). 
-Matplotlib Demo with Python4Delphi in Windows. PythonGUI.org. _Embarcadero Technologies. [blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/2matplotlib](https://blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/2matplotlib/)_
+Matplotlib Demo with Python4Delphi in Windows. _PythonGUI.org. Embarcadero Technologies. [blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/2matplotlib](https://blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/2matplotlib/)_
