@@ -35,28 +35,28 @@ How to make matplotlib graphs look professionally done like this? [closed]. _Sta
 Plot types. _The Matplotlib development team. [matplotlib.org/stable/plot_types/index.html](https://matplotlib.org/stable/plot_types/index.html)_
 
 ### [12] W3schools. (2009-2024). 
-Matplotlib Plot Types. W3schools® of Technology. w3schools.in/matplotlib/tutorials/plot-types
+Matplotlib Plot Types. _W3schools® of Technology. [w3schools.in/matplotlib/tutorials/plot-types](https://www.w3schools.in/matplotlib/tutorials/plot-types)_
 
 ### [13] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2024). 
-3D plotting. The Matplotlib development team. matplotlib.org/stable/gallery/mplot3d/index.html
+3D plotting. _The Matplotlib development team. [matplotlib.org/stable/gallery/mplot3d/index.html](https://matplotlib.org/stable/gallery/mplot3d/index.html)_
 
 ### [14] _tanya_sri_. (2023). 
-CThree-dimensional Plotting in Python using Matplotlib. GeeksForGeeks. geeksforgeeks.org/three-dimensional-plotting-in-python-using-matplotlib
+CThree-dimensional Plotting in Python using Matplotlib. _GeeksForGeeks. [geeksforgeeks.org/three-dimensional-plotting-in-python-using-matplotlib](https://www.geeksforgeeks.org/three-dimensional-plotting-in-python-using-matplotlib/)_
 
 ### [15] Mehmood, S. (2024). 
-How to Plot 3D Line Plot in Matplotlib. DelftStack. delftstack.com/howto/matplotlib/create-3d-line-plot-in-matplotlib
+How to Plot 3D Line Plot in Matplotlib. _DelftStack. [delftstack.com/howto/matplotlib/create-3d-line-plot-in-matplotlib](https://www.delftstack.com/howto/matplotlib/create-3d-line-plot-in-matplotlib/)_
 
 ### [16] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2024). 
-The mplot3d toolkit. The Matplotlib development team. matplotlib.org/stable/users/explain/toolkits/mplot3d.html
+The mplot3d toolkit. _The Matplotlib development team. [matplotlib.org/stable/users/explain/toolkits/mplot3d.html](https://matplotlib.org/stable/users/explain/toolkits/mplot3d.html)_
 
 ### [17] Hunter, J., Dale, D., Firing, E., Droettboom, M., and the Matplotlib development team. (2002-2024). 
-3D and volumetric data. The Matplotlib development team. matplotlib.org/stable/plot_types/3D/index.htm
+3D and volumetric data. _The Matplotlib development team. [matplotlib.org/stable/plot_types/3D/](https://matplotlib.org/stable/plot_types/3D/)_
 
 ### [18] Fedchenko, N. (2020). 
-Learn To Build A Python GUI For Working with 2D Graphics And The Matplotlib Library In A Delphi Windows App. Embarcadero Blogs. blogs.embarcadero.com/learn-to-build-a-python-gui-for-working-with-2d-graphics-and-the-matplotlib-library-in-a-delphi-windows-app
+Learn To Build A Python GUI For Working with 2D Graphics And The Matplotlib Library In A Delphi Windows App. _Embarcadero Blogs. [blogs.embarcadero.com/learn-to-build-a-python-gui-for-working-with-2d-graphics-and-the-matplotlib-library-in-a-delphi-windows-app](https://blogs.embarcadero.com/learn-to-build-a-python-gui-for-working-with-2d-graphics-and-the-matplotlib-library-in-a-delphi-windows-app/)_
 
 ### [19] Vlahos, H. and McKeeth, J. (2020). 
-Python for Delphi Developers (Part II). A webinar by Embarcadero Technologies. blogs.embarcadero.com/wp-content/uploads/2020/09/Python4DelphiPart-2-7796888.pdf
+Python for Delphi Developers (Part II). _A webinar by Embarcadero Technologies. [blogs.embarcadero.com/wp-content/uploads/2020/09/Python4DelphiPart-2-7796888.pdf](https://blogs.embarcadero.com/wp-content/uploads/2020/09/Python4DelphiPart-2-7796888.pdf)_
 
 ### [20] Hakim, M. A. (2021). 
-Matplotlib Demo with Python4Delphi in Windows. PythonGUI.org. Embarcadero Technologies. blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/2matplotlib
+Matplotlib Demo with Python4Delphi in Windows. PythonGUI.org. _Embarcadero Technologies. [blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/2matplotlib](https://blogs.embarcadero.com/5-easy-ways-to-integrate-image-processing-in-your-apps/2matplotlib/)_
