@@ -93,6 +93,8 @@ This is a code repository for my articles on [pythongui.org](https://pythongui.o
 
 3. NumPy FAQs: [How To Make More Than 20 ChatGPT Prompts Work With Python GUI Builders And NumPy Library?](https://pythongui.org/how-to-make-more-than-20-chatgpt-prompts-work-with-python-gui-builders-and-numpy-library/)
 
+4. OpenCV FAQs: [How To Make More Than 20 ChatGPT Prompts Work With Python GUI Builders And OpenCV Library?](https://pythongui.org/how-to-make-more-than-20-chatgpt-prompts-work-with-python-gui-builders-and-opencv-library/) 
+
 <h2>Repository structure</h2>
 The repository is organized into folders, with each folder corresponding to a specific article. Within each folder, you will find the relevant code and resources associated with that article.
 
