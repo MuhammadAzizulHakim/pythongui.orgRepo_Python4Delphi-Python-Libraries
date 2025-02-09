@@ -132,10 +132,8 @@ def make_model(input_shape, num_classes):
     outputs = layers.Dense(units, activation=activation)(x)
     return keras.Model(inputs, outputs)
 
-
 model = make_model(input_shape=image_size + (3,), num_classes=2)
 keras.utils.plot_model(model, show_shapes=True)
-
 
 # Train the model
 epochs = 50
@@ -151,4 +149,3 @@ model.compile(
 model.fit(
     train_ds, epochs=epochs, callbacks=callbacks, validation_data=val_ds,
 )
-
